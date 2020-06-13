@@ -1,12 +1,5 @@
 # Udagram Image Filtering Microservice
 
-
-Setup Node Environment
-
-You'll need to create a new node server. Open a new terminal within the project directory and run:
-
-Initialize a new project: npm i
-run the development server with npm run dev
 Deploy on AWS
 
 without image : http://udigram-sarath-dev-dev.us-east-1.elasticbeanstalk.com
